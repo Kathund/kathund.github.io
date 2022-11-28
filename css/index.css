@@ -1,0 +1,9 @@
+body {
+  max-width: 100vw;
+  max-height: 100vh;
+}
+body main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=index.css.map */
